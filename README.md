@@ -1,0 +1,2 @@
+# Konvolusyon
+Konvolusyon python kodları
